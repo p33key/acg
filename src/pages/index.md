@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: AUDIT CONTROL GROUP
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 'Badania sprawozdań finansowych '
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
