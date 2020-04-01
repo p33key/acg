@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: AUDIT CONTROL GROUP
+title: AUDIT CONTROL GROUPPA
 image: /img/home-jumbotron.jpg
 heading: 'Badania sprawozdań finansowych '
 subheading: Support sustainable farming while enjoying a cup
